@@ -13,9 +13,9 @@ const AboutMeDescription = () => {
 
       </p>
    
-      <div className="w100">
- <a href="https://drive.google.com/file/d/1Vhl7P9OplMrz49-7_PwZ01wW27yDEkz-/view?usp=sharing" class="btn btn-fill" >Télécharger mon CV <i class="fa fa-download"></i></a>
-          </div>
+      {/* <div> */}
+ <a href="https://drive.google.com/file/d/1Vhl7P9OplMrz49-7_PwZ01wW27yDEkz-/view?usp=sharing" class="btn btn-fill" >Télécharger mon CV</a>
+          {/* </div> */}
     </>
   );
 };

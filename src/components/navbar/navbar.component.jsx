@@ -11,7 +11,7 @@ const Navbar = () => {
       <nav className="navbar u-container">
         <div className="logo-box">
           <Link to="/">
-            <img src={logo} alt="Abhushan Portfolio Logo." />
+            <img src={logo} alt="Issam ELYAZRI." />
           </Link>
         </div>
         <ul className="navbar__items">
