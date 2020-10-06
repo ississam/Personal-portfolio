@@ -16,6 +16,8 @@ const AboutPage = () => {
         <div className="about__right">
           <AboutMeDescription />
           </div>
+          
+          
       </div>
     </>
   );

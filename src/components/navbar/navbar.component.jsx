@@ -17,7 +17,7 @@ const Navbar = () => {
         <ul className="navbar__items">
           <li className="navbar__item">
             <Link to="/about" className="navbar__link">
-            A propos
+            Apropos
             </Link>
           </li>
       

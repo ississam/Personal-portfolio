@@ -8,7 +8,7 @@ const ProjectsPage = () => {
   return (
     <div className="projectpage u-container">
       <h2 className="secondary-heading" id="projects">
-        Projects Done
+        Réalisations
       </h2>
       <ProjectOverview />
     </div>

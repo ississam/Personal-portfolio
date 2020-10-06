@@ -2,9 +2,17 @@
 
 .about-title {
   color: $dark-blue;
-  font-size: 3rem;
+  font-size: 4rem;
   font-weight: $bold;
   font-family: "Space Mono", monospace, sans-serif;
+  margin-bottom: 1%;
+}
+.about-title1 {
+  color: $dark-blue;
+  font-size: 2rem;
+  font-weight: $bold;
+  font-family: "Space Mono", monospace, sans-serif;
+  margin-bottom: 4%;
 }
 
 .about-desc {
@@ -15,3 +23,22 @@
     font-size: 1.2rem;
   }
 }
+
+.btn {
+  -moz-transition: color 0.3s ease;
+  -o-transition: color 0.3s ease;
+  -webkit-transition: color 0.3s ease;
+  transition: color 0.3s ease;
+  outline: 0;
+  padding: 8px 30px;
+  font-weight: bold;
+  border-radius: 20px; 
+margin-top: 3%;
+}
+
+
+  .btn.btn-fill {
+    background-color: #F28482;
+    color: #fff; }
+
+
