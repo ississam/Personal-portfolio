@@ -23,51 +23,40 @@ const competancesPage = () => {
 
 
 <div className="container">
-<p className="tawtxt">BACKEND:</p>
-  <div className="cadre row"> 
-    <div className="col-md-10">
-   <img class="image-taille mt-2 mr-4" src = {require('../../assets/laravel.png') } alt = "laravel" />
-<img class="image-taille" src = {require('../../assets/php.png') } alt = "php"/>
-    </div>
-  </div>
+
 <p className="tawtxt"> FRONTEND</p>
  
   <div className="cadre row">
     <div className="col-md-10">
-    <img class="image-taille" src = {require('../../assets/javascript.png') } alt = "JAVASCRIPT"/>
-    <img class="image-taille" src = {require('../../assets/html.png') } alt = "HTML"/>
-<img class="image-taille" src = {require('../../assets/css.png') } alt = "css"/>
-<img class="image-taille" src = {require('../../assets/react.png') } alt = "react"/>
-<img class="image-taille" src = {require('../../assets/bootstrap.png') } alt = "BOOTSTRAP"/>
+     <img class="image-taille mr-4" src = {require('../../assets/html.png') } alt = "HTML"/>
+<img class="image-taille mr-4" src = {require('../../assets/css.png') } alt = "css"/>
+<img class="image-taille mr-4" src = {require('../../assets/react.png') } alt = "react"/>
+<img class="image-taille mr-4" src = {require('../../assets/bootstrap.png') } alt = "BOOTSTRAP"/>
     </div>
   </div>
 
-  <p className="tawtxt">  Services web
-</p>
+  <p className="tawtxt">BACKEND:</p>
+  <div className="cadre row"> 
+
+    <div className="col-md-10">
+ 
+   <img class="image-taille mt-2 mr-4" src = {require('../../assets/laravel.png') } alt = "laravel" />
+<img class="image-taille image-taille" src = {require('../../assets/php.png') } alt = "php"/>
+{/* <img class="image-taille image-taille" src = {require('../../assets/mysql.png') } alt = "mysql"/> */}
+    </div>
+  </div>
+
+<p className="tawtxt">Base de données</p>
+
   <div className="cadre row"> 
     <div className="col-md-10">
-    <img class="image-taille" src = {require('../../assets/restapi.png') } alt = "restapi"/>
-    </div>
-  </div>
-<p className="tawtxt">  Services web</p>
-
-  <div className="cadre row"> 
-    <div className="col-md-10">
-    <img class="image-taille" src = {require('../../assets/linux.png') } alt = "Linux"/>
-    <img class="image-taille" src = {require('../../assets/windows.png') } alt = "Windows server"/>
+    {/* {/* <img class="image-taille" src = {require('../../assets/mysql.png') } alt = "Mysql"/> */}
+    <img class="image-taille" src = {require('../../assets/mysql.png') } alt = "Mysql"/> 
 
     </div>
   </div>
 
-  <p className="tawtxt">Tools</p>
-  <div className="cadre row"> 
-    <div className="col-md-10">
-    Github,Trello
-
-    </div>
-  </div>
-
-
+  
 
 
   </div>
