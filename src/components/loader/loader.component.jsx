@@ -9,7 +9,7 @@ import "./loader.styles.scss";
 const PageLoader = () => {
   return (
     <div className="loader__component">
-      <Loader type="Oval" color="#f28482" height={80} width={80} />
+      <Loader type="Oval" color="#2196F3" height={80} width={80} />
     </div>
   );
 };

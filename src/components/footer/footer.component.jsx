@@ -7,8 +7,8 @@ const Footer = () => {
     <footer>
       <div className="footer u-container">
         <p className="footer__line">
-          {/* Made with{" "} */}
-          
+          {  /* Made with{" "} */}
+          COPYRIGHT ISSAM ELYAZRI
         </p>
       </div>
     </footer>

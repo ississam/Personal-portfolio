@@ -38,13 +38,64 @@
       margin: 0.5rem 1rem;
     }
   }
-
-  .a1{
+  .a0{
     border: 1px solid $light-red;
     padding: 0.2rem 1rem;
     font-size: 1.2rem;
     color: $white;
-    background: red;
+    background: #DD0031;
+    border-radius: 1rem;
+    &:not(:first-child) {
+      margin-left: 1rem;
+      @media only screen and(max-width:400px) {
+        margin-left: 0;
+      }
+    }    
+  }
+
+  .a1{
+    border: 1px solid #33A1C4;
+    padding: 0.2rem 1rem;
+    font-size: 1.2rem;
+    color: $white;
+    background: #33A1C4;
+    border-radius: 1rem;
+    &:not(:first-child) {
+      margin-left: 1rem;
+      @media only screen and(max-width:400px) {
+        margin-left: 0;
+      }
+    }    
+
+    @media only screen and(max-width:400px) {
+      margin: 0.5rem 1rem;
+    }
+  }
+  
+  .a2{
+    border: 1px solid #20CC6A;
+    padding: 0.2rem 1rem;
+    font-size: 1.2rem;
+    color: $white;
+    background: #20CC6A;
+    border-radius: 1rem;
+    &:not(:first-child) {
+      margin-left: 1rem;
+      @media only screen and(max-width:400px) {
+        margin-left: 0;
+      }
+    }    
+
+    @media only screen and(max-width:400px) {
+      margin: 0.5rem 1rem;
+    }
+  }
+  .a3{
+    border: 1px solid #FF8852;
+    padding: 0.2rem 1rem;
+    font-size: 1.2rem;
+    color: $white;
+    background: #FF8852;
     border-radius: 1rem;
     &:not(:first-child) {
       margin-left: 1rem;
@@ -58,5 +109,24 @@
     }
   }
 
+
+  .a4{
+    border: 1px solid #FEF656;
+    padding: 0.2rem 1rem;
+    font-size: 1.2rem;
+    color: $white;
+    background: #FEF656;
+    border-radius: 1rem;
+    &:not(:first-child) {
+      margin-left: 1rem;
+      @media only screen and(max-width:400px) {
+        margin-left: 0;
+      }
+    }    
+
+    @media only screen and(max-width:400px) {
+      margin: 0.5rem 1rem;
+    }
+  }
 
 }
