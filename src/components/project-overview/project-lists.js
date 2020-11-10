@@ -11,7 +11,7 @@ const projectList = [
     projectDescription: `Application web qui gére les congés du personnel des sociétés, l'employé fait une demande de congés, le responsable la traite.`,
     viewDemoLink: "https://issam-elyazri.com/easyleave.mp4",
     viewCodeLink: "https://github.com/ississam/gestionconges-font",
-    tagLists: ["React", "React-Router", "Context API"],
+    tagLists: ["Restapi","React-js", "Laravel","Bootstrap","HTML"],
     coverImg:
     "https://issam-elyazri.com/assets/images/easyleave/1.jpg",
   },
@@ -20,7 +20,7 @@ const projectList = [
     projectDescription: `Gestion des cours udemy, avec ajout, suggestion et suppression de ce cours.Cette application réalisé en mode Agile (methodologie SCRUM) avec Zakaria et Oussama, gére les cours UDEMY, avec la consommation de l'api de udemy et RESAPI en même temps`,
     viewDemoLink: "https://issam-elyazri.com/clone-udemy.mp4",
     viewCodeLink: "https://github.com/ississam/restapi-udemy",
-    tagLists: ["React", "Redux", "React-Router", "Redux-Persist"],
+    tagLists: ["Restapi","React-js", "Laravel","Bootstrap","HTML"],
     coverImg:
       "https://issam-elyazri.com/assets/images/udem.jpg",
   },
@@ -30,7 +30,7 @@ const projectList = [
     `,
     viewDemoLink: "https://issam-elyazri.com/clone_insta.mp4",
     viewCodeLink: "https://github.com/ississam/clone-instagram",
-    tagLists: ["HTML", "CSS", "Responsive Design"],
+    tagLists: ["Laravel","Bootstrap","HTML","CSS","Javascript"],
     coverImg:
       "https://issam-elyazri.com/assets/images/cloneinsta/phot.png",
   },
@@ -40,7 +40,7 @@ const projectList = [
     projectDescription: `Site  e-commerce, avec moyen de paiement en ligne sécurisé, gestion des stock et des coupons de promotion.`,
     viewDemoLink: "https://issam-elyazri.com/ecommerce.mp4",
     viewCodeLink: "https://github.com/ississam/ecommerce_laravel",
-    tagLists: ["React", "Redux", "Firebase"],
+    tagLists: ["Laravel","Bootstrap","HTML","CSS","Javascript"],
     coverImg:
       "https://issam-elyazri.com/assets/images/ecommerce/1.png",
   },
@@ -50,7 +50,7 @@ const projectList = [
     projectDescription: `Ce blog est un  journaul personnel où il est publié des articles utiles, avec la gestion des auteurs, des artices des commentaires.`,
     viewDemoLink: "https://issam-elyazri.com/blognative.mp4",
     viewCodeLink: "https://github.com/ississam/BlogNATIVE",
-    tagLists: ["HTML", "CSS", "JavaScript", "Node.js"],
+    tagLists: ["PHP","Bootstrap","HTML","CSS"],
     coverImg:
       "https://issam-elyazri.com/assets/images/Blog%20native/2.png",
   },
