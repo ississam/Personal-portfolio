@@ -1,0 +1,87 @@
+{
+  "main": {
+    "name":"Issam ELYAZRI",
+    "occupation":"Développeur Web Fullstack",
+    "description":"",
+    "image":"profilepic.jpg",
+    "contactmessage":"Contact",
+    "email": "contact@issam-elyazri.com",
+    "phone": "+212 617 428 270",
+    "address":{
+      "city":"Casablanca",
+      "state":"Maroc",
+      "zip": "10050"
+    },
+    "website": "https://www.issam-elyazri.com",
+    "resumedownload":"https://drive.google.com/file/d/1KEpHxtN0Mf81ZZ1mNbsL6uuMfvIgfDuM/view?usp=sharing",
+    "social":[
+
+      
+    
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/issamelyazri/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/ississam",
+        "className":"fa fa-github"
+      },
+
+      {
+        "name":"email",
+        "url":"mailto:contact@issam-elyazri.com?subject=The%20subject%20of%20the%20mail",
+        "className":"fa fa-envelope"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"Microverse",
+        "degree":"Full-Stack Web Development",
+        "graduated":"September 2020",
+        "description":"Attending Microverse involved the study of Algorithms and Data Stuctures, SQL syntax and statements, Full Stack Web Development with Ruby on Rails, JavaScript, React and Redux. Also based on mockups and a broad list of requirements, it was required to build complex web applications and terminal utilities."
+      },
+      {
+        "school":"Polytechnic University of Turin",
+        "degree":"Electronics and Communication Engineering",
+        "graduated":"former student",
+        "description":"The first year required the study of foundations of mathematics, physics, computer science, computer networks and electronics. The second year required the study of advanced mathematics and physics, and the fundamentals of electronic systems."
+      }
+    ],
+    "work":[
+      {
+        "company":"Auxilium Youth Tribe",
+        "title":"Back-End Web Developer",
+        "years":"August 2020 - Present",
+        "description":"Built the backend authentication platform for their main webstite (still being developed). Contributed to the team with small tasks, such as code review, TDD Development, design improvements, etc."
+      },
+      {
+        "company":"Microverse",
+        "title":"Technical Support Engineer",
+        "years":"April 2020 - Present",
+        "description":"Performed coding reviews and completed 50+ reviews for students in the HTML & CSS curriculum from all over the world. Provided support through professional assistance platforms Zoom and Slack as they needed extra support during their projects."
+      },
+      {
+        "company":"Microverse",
+        "title":"Student Mentor",
+        "years":"February 2020 - Present",
+        "description":"Mentored students on a 1:1 basis using Zoom Conference Platform. Provided both technical and professional assistance as they complete individual and group projects throughout the core curriculum."
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Alexandru has a great mentality that always seeks to improve his skills. His discipline makes working with him easy and challenging at the same time. He loves to share his ideas and accomplishments with other people, which makes him very easily leave an impact in any working environment.",
+        "user":"Muhammed Ebeid | Software Engineer - Full Stack Ruby on Rails/React.js"
+      },
+      {
+        "text":"I worked with Alexandru at Microverse. Alexandra is detailed orientated, has advanced system engineering and problem-solving skills. He has the ability to effectively manage several tasks at a time.",
+        "user":"Dickens Juma | Software Developer at Bluewave Insurance Agency"
+      }
+    ]
+  }
+}
